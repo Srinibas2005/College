@@ -1,0 +1,29 @@
+td{
+    border: 2px solid beige;
+}
+th{
+    border: 2px solid beige;
+}
+input,textarea{
+    margin: 11px;
+    font-size: 15px;
+    align-items: end;
+    padding: 8px;
+}
+label{
+    text-align: right;
+}
+body{
+    background-repeat:initial;
+    background-position: 5px;
+}
+a{
+    width: 32px;
+    height: 30px;
+
+}
+b{
+    width: 32px;
+    height: 32px;
+    padding-left: 28px;
+}
